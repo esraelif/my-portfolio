@@ -1,4 +1,8 @@
 ![](https://github.com/esraelif/my-portfolio/blob/main/src/assets/portfolio.gif)
+
+
+
+
 get assets from "project-assets"
 images from Undraw Undraw Docs
 add tailwind
